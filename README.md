@@ -1,0 +1,1 @@
+This project captures real-time video from a webcam, detects facial emotions using the FER (Facial Emotion Recognition) library, and generates a detailed PDF report summarizing detected emotions, confidence levels, and improvement suggestions based on emotional trends.
