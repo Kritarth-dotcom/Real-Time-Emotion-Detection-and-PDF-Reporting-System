@@ -1,0 +1,12 @@
+Webcam feed is processed frame by frame.
+Every 2nd frame is analyzed to improve performance.
+FER (with MTCNN) predicts:
+  Detected emotion
+  Confidence score
+All predictions are stored with timestamps.
+After 60 seconds (or ESC key is pressed):
+  The camera closes
+  A PDF is created containing:
+    Raw detections
+    Statistical summary
+    Customized emotional health recommendations
