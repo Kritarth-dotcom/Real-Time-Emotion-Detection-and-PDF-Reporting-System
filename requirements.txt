@@ -1,0 +1,6 @@
+Python 3.8+
+opencv
+fer 
+tensorflow 
+fpdf
+mtcnn
